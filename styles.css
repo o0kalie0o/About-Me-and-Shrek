@@ -13,6 +13,7 @@ h2 {color:linen;
 
         img {max-width: 20%;
             height: auto}
-li {color: orangered}
+li {color: orangered;
+    font-family: papyrus }
 
 h3 {font-family: verdana}
