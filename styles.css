@@ -1,0 +1,14 @@
+body {
+
+    color:palevioletred;
+}
+h1 {color:rgb(255, 191, 0);
+    font-size:xx-large;
+    background-color: plum;}
+
+h2 {color:linen;
+        background-color: orange;}
+
+        img {max-width: 20%;
+            height: auto}
+li {color: orangered}
